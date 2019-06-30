@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name":"Slave 1",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imageURL":"https://i.ebayimg.com/thumbs/images/g/XsIAAOSwpo5czG93/s-l200.jpg",
+    "price": 19900,
+    "prettyPrice": 199
+  },
+  {
+    "id": 1,
+    "name":"Tie Advanced",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imageURL":"https://static.mattonito.com/img/offers/200x200/lego-star-wars-75150-vader-s-tie-advanced-vs-a-wing-starfigh-18572814.jpg",
+    "price": 19900,
+    "prettyPrice": 199
+  },
+  {
+    "id": 2,
+    "name":"X-Wing",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imageURL":"https://cdn.shopify.com/s/files/1/0021/1710/7830/products/lepin-05004-poes-x-wing-fighter-starwars_200x.jpeg?v=1542752907",
+    "price": 19900,
+    "prettyPrice": 199
+  },
+  {
+    "id": 3,
+    "name":"Executor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imageURL":"http://j20.bestshop24h.com/image/cache/catalog/lepin-05028-super-star-destroyer-ucs-starwars_1024x1024@2x-200x200.jpg",
+    "price": 19900,
+    "prettyPrice": 199
+  },
+  {
+    "id": 3,
+    "name":"Death Star",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imageURL":"https://d3fa68hw0m2vcc.cloudfront.net/c2f/209843479.jpeg",
+    "price": 49900,
+    "prettyPrice": 499
+  }
+]
