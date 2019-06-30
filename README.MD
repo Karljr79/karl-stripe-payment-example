@@ -4,13 +4,13 @@ This is an extremely simple and lightweight e-commerce page that demonstrates ho
 
 You will need the following to use this app:
 
-[Node.js] (https://nodejs.org/en/) - Ensure your machine has the latest version of Node.js installed
+[Node.js](https://nodejs.org/en/) - Ensure your machine has the latest version of Node.js installed
 
-If you have any questions along the way, simply [email me] (mailto:karljr79@gmail.com)
+If you have any questions along the way, simply [email me](mailto:karljr79@gmail.com)
 
-##Stripe account
+## Stripe account
 
-You will need a Stripe account to use this app.  You can sign up for one [here] (https://dashboard.stripe.com/register)
+You will need a Stripe account to use this app.  You can sign up for one [here](https://dashboard.stripe.com/register)
 
 ## Running the Application
 
