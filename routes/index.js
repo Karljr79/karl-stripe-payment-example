@@ -19,6 +19,7 @@ router.get('/purchase/:id', function(req, res, next) {
   res.render('shop/purchase', { title: 'Purchase Screen', item: productToPurchase, stripeKey: config.stripePublishableKey });
 });
 
+//Handle token from the client and use it to capture payment from Stripe
 router.post('/charge', function(req, res, next) {
   // See your keys here: https://dashboard.stripe.com/account/apikeys
   const stripe = require('stripe')(config.stripeSecretKey);
