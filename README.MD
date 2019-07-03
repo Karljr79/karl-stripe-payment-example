@@ -18,7 +18,7 @@ In order to run this demo on your local machine, please follow the steps below:
 
 1. Clone or Download the source code in this repo. If you plan on cloning, open a terminal window, navigate to the folder where you want this project to live and enter the following command:
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/Karljr79/karl-stripe-payment-example
 ```
 
 2. Once you have cloned/downloaded the source, you will need to use npm to install project dependencies prior to running the code.  
